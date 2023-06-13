@@ -3,9 +3,9 @@
 '''
 @File    :   __init__.py
 @Time    :   2020/11/08
-@Author  :   Yaronzz
+@Author  :   Yaronzz [ra1n08 modded]
 @Version :   3.0
-@Contact :   yaronhuang@foxmail.com
+@Contact :   yaronhuang@foxmail.com [azttt2008@gmail.com]
 @Desc    :   
 '''
 import sys
